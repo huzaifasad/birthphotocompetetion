@@ -112,7 +112,7 @@ export function Second() {
                 <Card key={i} className="overflow-hidden">
                   <CardContent className="p-0">
                     <Image
-                      src="https://www.exposingbirth.com/wp-content/uploads/2021/08/Jenna_Nord_02-300x200.jpg"
+                      src="/placeholder.svg"
                       alt={`Entry ${i + 1}`}
                       width={400}
                       height={300}
